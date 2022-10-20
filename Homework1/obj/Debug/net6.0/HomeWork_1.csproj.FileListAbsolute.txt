@@ -1,0 +1,15 @@
+/Users/lidiavolkova/Desktop/HomeWork_1/bin/Debug/net6.0/HomeWork_1
+/Users/lidiavolkova/Desktop/HomeWork_1/bin/Debug/net6.0/HomeWork_1.deps.json
+/Users/lidiavolkova/Desktop/HomeWork_1/bin/Debug/net6.0/HomeWork_1.runtimeconfig.json
+/Users/lidiavolkova/Desktop/HomeWork_1/bin/Debug/net6.0/HomeWork_1.dll
+/Users/lidiavolkova/Desktop/HomeWork_1/bin/Debug/net6.0/HomeWork_1.pdb
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.csproj.AssemblyReference.cache
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.AssemblyInfoInputs.cache
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.AssemblyInfo.cs
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.csproj.CoreCompileInputs.cache
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.dll
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/refint/HomeWork_1.dll
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.pdb
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/HomeWork_1.genruntimeconfig.cache
+/Users/lidiavolkova/Desktop/HomeWork_1/obj/Debug/net6.0/ref/HomeWork_1.dll
